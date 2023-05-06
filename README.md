@@ -14,5 +14,5 @@ The asignement 2:
 
 ,,The My Store application will be instaled in UAT. Your task is to be sure that the final version of the application has no defects.
 <p>The discovered defects found by executing tests will be documented in JIRA SOFTWARE tool.</p>
-<p>Also a list with all test cases executed must be documented in a JIRA SOFTWARE's task under<i>MyStore_release_candidate</i> label.</p> 
+<p>Also a list with all test cases executed must be documented in a JIRA SOFTWARE's task under <i>MyStore_release_candidate</i> label.</p> 
 <p>The link for the final version of My store application: https://courses-presta-prod.visuality.pl/index.php.”</p>
